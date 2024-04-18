@@ -1,4 +1,4 @@
-<div align="center" style="border-radius: 10px; overflow: hidden;">
+<div align="center" style="border-radius: 10px; ">
   <img src="path/to/your/image.png" alt="30 Days of JavaScript Banner" style="border-radius: 10px;">
 </div>
 
