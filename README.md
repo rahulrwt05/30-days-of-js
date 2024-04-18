@@ -43,8 +43,8 @@ Here's a list of the 30 essential JavaScript mini projects:
 
 1. Custom Cursor
 - Description: Implement a custom cursor effect using JavaScript.
-- [Live Demo](https://your-website.com/projects/custom-cursor)
-- [GitHub Repository](https://github.com/your-username/custom-cursor)
+- [Live Demo]([https://your-website.com/projects/custom-cursor](https://rahulrwt05.github.io/Custom-Cursor/))
+- [GitHub Repository](https://github.com/your-username/custom-cursor](https://github.com/rahulrwt05/Custom-Cursor)
 - ![Custom Cursor Project](images/custom_cursor.jpg)
 
 
