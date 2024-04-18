@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="images/banner.jpg" alt="30 Days of JavaScript Banner">
+</div>
+
 ## 30 Days Of Js
 Welcome to the 30 Days of JavaScript Projects challenge! This collection of projects is designed to help beginners learn JavaScript by building practical applications and games. Each project focuses on different aspects of JavaScript, allowing you to gradually improve your skills as you progress through the list.
 
@@ -41,7 +45,7 @@ Here's a list of the 30 essential JavaScript mini projects:
 - Description: Implement a custom cursor effect using JavaScript.
 - [Live Demo](https://your-website.com/projects/custom-cursor)
 - [GitHub Repository](https://github.com/your-username/custom-cursor)
-- ![Custom Cursor Project](images/custom-cursor.png)
+- ![Custom Cursor Project](images/custom_cursor.jpg)
 
 
 2. Bubble Game
