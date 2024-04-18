@@ -1,5 +1,5 @@
 <div align="center" style="border-radius: 10px; ">
-  <img src="images/image.png" alt="30 Days of JavaScript Banner" style="border-radius: 10px;">
+  <img src="images/banner.jpg" alt="30 Days of JavaScript Banner" style="border-radius: 10px;">
 </div>
 
 ## 30 Days Of Js
