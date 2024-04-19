@@ -2,7 +2,9 @@
   <img src="images/banner.jpg" alt="30 Days of JavaScript Banner" style="border-radius: 10px;">
 </div>
 
-## 30 Days Of Js
+## 30 Days Of Js 
+
+**Created by Rahul Singh Rawat**
 
 Welcome to the 30 Days of JavaScript Projects challenge! This collection of projects is designed to help beginners learn JavaScript by building practical applications and games. Each project focuses on different aspects of JavaScript, allowing you to gradually improve your skills as you progress through the list.
 
@@ -50,7 +52,7 @@ Here's a list of the 30 essential JavaScript mini projects:
 
 2. Insta Feed
 
-- Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
+- Description: Recreating the essence of Instagram's feed, featuring interactive like animations, follow/unfollow functionality, and captivating story viewing.
 - [Live Demo](https://rahulrwt05.github.io/Insta_feed/)
 - [GitHub Repository](https://github.com/rahulrwt05/Insta_feed)
   ![Custom Cursor Project](images/insta_feed.png)
