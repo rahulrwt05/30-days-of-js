@@ -48,7 +48,7 @@ Here's a list of the 30 essential JavaScript mini projects:
 - [GitHub Repository](https://github.com/rahulrwt05/Custom-Cursor)
 - ![Custom Cursor Project](images/custom_cursor.jpg)
 
-2. Bubble Game
+2. Insta Feed
 
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
 - [Live Demo](https://rahulrwt05.github.io/Insta_feed/)
