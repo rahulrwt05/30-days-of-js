@@ -46,21 +46,21 @@ Here's a list of the 30 essential JavaScript mini projects:
 - Description: Implement a custom cursor effect using JavaScript.
 - [Live Demo](https://rahulrwt05.github.io/Custom-Cursor/)
 - [GitHub Repository](https://github.com/rahulrwt05/Custom-Cursor)
-- ![Custom Cursor Project](images/custom_cursor.jpg)
+  ![Custom Cursor Project](images/custom_cursor.jpg)
 
 2. Insta Feed
 
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
 - [Live Demo](https://rahulrwt05.github.io/Insta_feed/)
 - [GitHub Repository](https://github.com/rahulrwt05/Insta_feed)
-- ![Custom Cursor Project](images/insta_feed.png)
+  ![Custom Cursor Project](images/insta_feed.png)
 
 3. Bubble Game
 
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
 - [Live Demo](https://your-website.com/projects/bubble-game)
 - [GitHub Repository](https://github.com/your-username/bubble-game)
-- ![Custom Cursor Project](images/custom-cursor.png)
+  ![Custom Cursor Project](images/custom-cursor.png)
 
 <!-- Add descriptions and links for the remaining projects -->
 
