@@ -3,11 +3,12 @@
 </div>
 
 ## 30 Days Of Js
+
 Welcome to the 30 Days of JavaScript Projects challenge! This collection of projects is designed to help beginners learn JavaScript by building practical applications and games. Each project focuses on different aspects of JavaScript, allowing you to gradually improve your skills as you progress through the list.
 
 ### Learning Goals
 
-By completing these  projects, you will:
+By completing these projects, you will:
 
 - Gain a solid understanding of JavaScript fundamentals, including variables, functions, loops, and conditional statements.
 - Learn how to manipulate the Document Object Model (DOM) to create dynamic and interactive web pages.
@@ -24,10 +25,9 @@ To enhance your learning experience, check out these YouTube channels for tutori
 
 ### Getting Started
 
-To get started with the  projects, follow these steps:
+To get started with the projects, follow these steps:
 
 1. **Clone the Repository:** Clone this repository to your local machine using the following command:git clone https://github.com/rahulrwt05/30-essential-js-mini-projects.git
-
 
 2. **Explore the Projects:** Navigate to the project directory and explore each mini project. Read the project description, review the code, and try running the project locally in your web browser.
 
@@ -42,18 +42,25 @@ Check out the live demo of all 30 essential JavaScript mini projects [here](http
 Here's a list of the 30 essential JavaScript mini projects:
 
 1. Custom Cursor
+
 - Description: Implement a custom cursor effect using JavaScript.
 - [Live Demo](https://rahulrwt05.github.io/Custom-Cursor/)
 - [GitHub Repository](https://github.com/rahulrwt05/Custom-Cursor)
 - ![Custom Cursor Project](images/custom_cursor.jpg)
 
-
 2. Bubble Game
+
+- Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
+- [Live Demo](https://rahulrwt05.github.io/Insta_feed/)
+- [GitHub Repository](https://github.com/rahulrwt05/Insta_feed)
+- ![Custom Cursor Project](images/insta_feed.png)
+
+3. Bubble Game
+
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
 - [Live Demo](https://your-website.com/projects/bubble-game)
 - [GitHub Repository](https://github.com/your-username/bubble-game)
 - ![Custom Cursor Project](images/custom-cursor.png)
-
 
 <!-- Add descriptions and links for the remaining projects -->
 
@@ -70,9 +77,9 @@ As you work through these mini projects, remember to:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
-
 <br />
 
 [website]: https://rahulrwt05.vercel.app/
-[linkedin]:https://www.linkedin.com/in/rahulrwt05/
+[linkedin]: https://www.linkedin.com/in/rahulrwt05/
+
 Happy coding! 🚀
