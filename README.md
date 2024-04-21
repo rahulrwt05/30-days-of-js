@@ -2,7 +2,11 @@
   <img src="images/banner.jpg" alt="30 Days of JavaScript Banner" style="border-radius: 10px;">
 </div>
 
+<<<<<<< HEAD
 ## 30 Days Of Js
+=======
+## 30 Days Of Js 
+>>>>>>> 692189b71290ebdd0b021dc662c8b3309df9c0d3
 
 **Created by Rahul Singh Rawat**
 
