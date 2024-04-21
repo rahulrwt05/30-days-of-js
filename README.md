@@ -4,10 +4,6 @@
 
 ## 30 Days Of Js
 
-=======
-
-## 30 Days Of Js
-
 **Created by Rahul Singh Rawat**
 
 Welcome to the 30 Days of JavaScript Projects challenge! This collection of projects is designed to help beginners learn JavaScript by building practical applications and games. Each project focuses on different aspects of JavaScript, allowing you to gradually improve your skills as you progress through the list.
@@ -64,9 +60,10 @@ Here's a list of the 30 essential JavaScript mini projects:
 3. Bubble Game
 
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
-- [Live Demo](https://your-website.com/projects/bubble-game)
-- [GitHub Repository](https://github.com/your-username/bubble-game)
-  ![Custom Cursor Project](images/custom-cursor.png)
+- [Live Demo](https://rahulrwt05.github.io/Bubble-Game/)
+- [GitHub Repository](https://github.com/rahulrwt05/Bubble-
+  Game)
+  ![Custom Cursor Project](images/bubble_game.png)
 
 <!-- Add descriptions and links for the remaining projects -->
 
