@@ -55,21 +55,21 @@ Here's a list of the 30 essential JavaScript mini projects:
 - Description: Recreating the essence of Instagram's feed, featuring interactive like animations, follow/unfollow functionality, and captivating story viewing.
 - [Live Demo](https://rahulrwt05.github.io/Insta_feed/)
 - [GitHub Repository](https://github.com/rahulrwt05/Insta_feed)
-  ![Custom Cursor Project](images/insta_feed.png)
+  ![Insta Feed](images/insta_feed.png)
 
 3. Bubble Game
 
 - Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
 - [Live Demo](https://rahulrwt05.github.io/Bubble-Game/)
 - [GitHub Repository](https://github.com/rahulrwt05/Bubble-Game)
-  ![Custom Cursor Project](images/bubble_game.png)
+  ![Bubble Game](images/bubble_game.png)
   
   4. Guess Number Game
 
 - Description: A simple interactive game where players guess a random number between 1 and 100 within 10 attempts , demonstrating JavaScript concepts like random number generation, user input handling, and DOM manipulation.
 - [Live Demo](https://rahulrwt05.github.io/Bubble-Game/)
 - [GitHub Repository](https://github.com/rahulrwt05/GuessNumberGame)
-  ![Custom Cursor Project](https://github.com/rahulrwt05/GuessNumberGame/blob/main/guessno.jpg)
+  ![Guess Number Game Project](images/guessno.jpg)
 
 
 <!-- Add descriptions and links for the remaining projects -->
