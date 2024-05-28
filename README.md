@@ -64,7 +64,7 @@ Here's a list of the 30 essential JavaScript mini projects:
 - [GitHub Repository](https://github.com/rahulrwt05/Bubble-Game)
   ![Bubble Game](images/bubble_game.png)
   
-  4. Guess Number Game
+4. Guess Number Game
 
 - Description: A simple interactive game where players guess a random number between 1 and 100 within 10 attempts , demonstrating JavaScript concepts like random number generation, user input handling, and DOM manipulation.
 - [Live Demo](https://rahulrwt05.github.io/Bubble-Game/)
