@@ -59,7 +59,7 @@ Here's a list of the 30 essential JavaScript mini projects:
 
 3. Bubble Game
 
-- Description: Build a bubble-popping game using HTML, CSS, and JavaScript.
+- Description:  An interactive project showcasing event bubbling and delegation in JavaScript DOM manipulation.
 - [Live Demo](https://rahulrwt05.github.io/Bubble-Game/)
 - [GitHub Repository](https://github.com/rahulrwt05/Bubble-Game)
   ![Bubble Game](images/bubble_game.png)
