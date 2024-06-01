@@ -74,8 +74,8 @@ Here's a list of the 30 essential JavaScript mini projects:
 5. Color Spectrum Explorer
 
 - Description: Explore a vibrant spectrum of colors by generating random colors along with their hexadecimal codes. Start the color-changing process with the "Start" button, and stop it with the "Stop" button to get the code of your desired color.
-- [Live Demo](#)
-- [GitHub Repository](#)
+- [Live Demo](https://rahulrwt05.github.io/Color-Spectrum-Explorer/)
+- [GitHub Repository](https://github.com/rahulrwt05/Color-Spectrum-Explorer)
   ![Color Spectrum Explorer Project](images/color_spectrum2.jpg)
 
 
