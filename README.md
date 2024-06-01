@@ -71,6 +71,13 @@ Here's a list of the 30 essential JavaScript mini projects:
 - [GitHub Repository](https://github.com/rahulrwt05/GuessNumberGame)
   ![Guess Number Game Project](images/guessno.jpg)
 
+5. Color Spectrum Explorer
+
+- Description: Explore a vibrant spectrum of colors by generating random colors along with their hexadecimal codes. Start the color-changing process with the "Start" button, and stop it with the "Stop" button to get the code of your desired color.
+- [Live Demo](#)
+- [GitHub Repository](#)
+  ![Color Spectrum Explorer Project](images/color_spectrum2.jpg)
+
 
 <!-- Add descriptions and links for the remaining projects -->
 
@@ -89,7 +96,4 @@ As you work through these mini projects, remember to:
 
 <br />
 
-[website]: https://rahulrwt05.vercel.app/
-[linkedin]: https://www.linkedin.com/in/rahulrwt05/
-
-Happy coding! 🚀
+[website]:
